@@ -1,0 +1,4 @@
+title: DSC 180A Methodology 4
+description: Barebones Jekyll site for Task 2
+theme: jekyll-theme-cayman   # you can change to any supported theme
+markdown: kramdown
