@@ -1,8 +1,3 @@
----
-layout: default
-title: Home
----
-
 # Sophie Wang
 UCSD email: <zhw074@ucsd.edu>  
 Section & Mentor: **B18 – Rob Knight**
